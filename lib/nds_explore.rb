@@ -8,7 +8,7 @@ end
 
 pretty_print_nds(directors_database)
 
-
+# iteration of directors movie database
 def print_first_directors_movie_titles
 
   i = 0
