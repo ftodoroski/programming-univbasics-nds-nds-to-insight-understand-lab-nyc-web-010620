@@ -39,9 +39,7 @@ def print_first_directors_movie_titles
   end
 end
 
-#   movies
-# end
-# #
+
 # data_base = [
 #    {:name=>"Stephen Spielberg",
 #     :movies=>[ {:title=>"Jaws", :studio=>"Universal", :worldwide_gross=>260000000, :release_year=>1975},
