@@ -26,7 +26,22 @@ def print_first_directors_movie_titles
 
   movies
 end
+
+
+# def print_first_directors_movie_titles
+#   movies = []
 #
+#   i = 0
+#   while i < directors_database[:movies].length
+#     movie = directors_database[:movies][i][:title]
+#     puts
+#
+#     i += 1
+#   end
+#
+#   movies
+# end
+# #
 # data_base = [
 #    {:name=>"Stephen Spielberg",
 #     :movies=>[ {:title=>"Jaws", :studio=>"Universal", :worldwide_gross=>260000000, :release_year=>1975},
