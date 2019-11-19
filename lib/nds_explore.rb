@@ -28,17 +28,17 @@ def print_first_directors_movie_titles
 end
 
 
-# def print_first_directors_movie_titles
-#   movies = []
-#
-#   i = 0
-#   while i < directors_database[:movies].length
-#     movie = directors_database[:movies][i][:title]
-#     puts
-#
-#     i += 1
-#   end
-#
+def print_first_directors_movie_titles
+  movies = []
+
+  i = 0
+  while i < directors_database[:movies].length
+    movie = directors_database[:movies][i][:title]
+    puts
+
+    i += 1
+  end
+
 #   movies
 # end
 # #
