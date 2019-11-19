@@ -19,10 +19,12 @@ def print_first_directors_movie_titles
   i = 0
   while i < directors_database[:movies].length
     movie = directors_database[:movies][i][:title]
-    
+    movies << movie
 
     i += 1
   end
+
+  movies
 end
 #
 # data_base = [
